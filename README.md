@@ -2,7 +2,7 @@
 The Pomodoro Timer is a productivity app with a **Tkinter**-based UI that helps users follow the Pomodoro technique. It includes a countdown timer, session indicators, and automatic work/break transitions. 
 
 ## Screenshots
-![ss1](./screenshots/1.PNG), ![ss2](./screenshots/2.PNG)
+![ss1](./screenshots/1.png), ![ss2](./screenshots/2.png)
 
 ## Author
 Pranjal Sarnaik
